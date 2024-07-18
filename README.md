@@ -20,3 +20,7 @@
  
 Microsoft Excel proved invaluable with Power Queries, Pivot Tables, formulas, and charts—plus, I crafted dynamic dashboards for easy visualization.
 Stay tuned as I dive deeper into the trends shaping fast food sales and how these insights can drive smarter business strategies! 🚀
+
+
+## Dashboard
+![alt text](DASHBOARD.png)
